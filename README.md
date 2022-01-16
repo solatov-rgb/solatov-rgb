@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @solatov-rgb
 - 👀 I’m interested in writing code 
 - 🌱 I’m currently learning how to code in java script
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything code related 
 - 📫 How to reach me fagansaul@gmail.com
 
 <!---
